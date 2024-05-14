@@ -1,0 +1,22 @@
+div {
+  background-color: rgb(141, 141, 246);
+  width: 280px;
+  height: 200px;
+  padding: 20px;
+  box-sizing: border-box;
+  margin: 10px;
+}
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+p {
+  color: white;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 1px;
+}
+span {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(5, 5, 58);
+  font-size: 20px;
+}
